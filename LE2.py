@@ -17,7 +17,7 @@ print(lowest_sleep_quality_occ)
 print()
 
 # Question 3
-same_occ_variable = lowest_sleep_occ == lowest_sleep_quality_occ
+same_occ = lowest_sleep_occ == lowest_sleep_quality_occ
 print("Is it the same occupation?")
-print(same_occ_variable)
+print(same_occ)
 print()
